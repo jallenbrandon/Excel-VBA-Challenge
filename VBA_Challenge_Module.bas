@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub Stocks()
 ' Declar and set worksheet
 Dim ws As Worksheet
